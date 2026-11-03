@@ -7,3 +7,6 @@ __pycache__/
 
 # 本地调试
 .tmp/
+
+# 每轮全量重写的排名快照，内容与 sourceopt/REPORT.md 重复
+/report.json

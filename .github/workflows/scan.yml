@@ -38,9 +38,17 @@ jobs:
           FORCE_SWITCH: ${{ inputs.force && '1' || '' }}
         run: python sourceopt/scan.py
 
+      - name: 生成镜像备用配置
+        # raw.githubusercontent.com 在国内会被间歇阻断，备用配置把所有依赖
+        # 改写成「镜像 + 绝对 raw 地址」，电视端可切换到此文件
+        run: |
+          cd sourceopt/out
+          python ../make_fallback.py
+
       - name: 发布结果
         run: |
           set -e
+          rm -f sourceopt/out/report.json report.json
           cp -r sourceopt/out/. .
           rm -rf sourceopt/out
           git config user.name  "github-actions[bot]"
