@@ -20,7 +20,7 @@
     "movie_min_sites": 20,
     "live_min_channels": 80,
     "max_age_days": 400,
-    "keep_spider_sites": false,
+    "keep_spider_sites": true,
     "spider_browse_only": true
   },
   "blocklist": [
