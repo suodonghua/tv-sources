@@ -15,11 +15,11 @@
     "spider": "./jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297",
     "spider_ok": 1.0,
     "size": 27643,
-    "star": 12577,
+    "star": 12581,
     "fork": 4384,
     "days": 0,
     "note": "12577 star / fork 4383，日更，gao 的上游",
-    "score": 0.9777029596223025,
+    "score": 0.9777075626375177,
     "detail": "sites=135 spider_ok=1.00 form=single"
   },
   "live": {
@@ -34,11 +34,11 @@
     "alive_rate": 1.0,
     "alive_sample": 8,
     "size": 96506,
-    "star": 10075,
-    "fork": 1456,
+    "star": 10076,
+    "fork": 1457,
     "days": 0,
     "note": "10075 star（你当前在用）",
-    "score": 0.9700235419374285,
+    "score": 0.9700306507079411,
     "detail": "channels=432 alive=1.0(8抽样)"
   }
 }

@@ -1,6 +1,6 @@
 # 源择优报告
 
-生成时间：2026-11-03T23:00:31+08:00
+生成时间：2026-11-03T15:37:32+00:00
 
 ## 当前生效
 
@@ -18,7 +18,7 @@
 | 3 | `mrgaoshuiquan/tvbox-config` | sites=52 spider_ok=1.00 form=single | 0.625 |
 | 4 | `gaotianliuyun/gao` | sites=135 spider_ok=1.00 form=single | 0.616 |
 
-> ✅ 已切换：首次选定
+> ✅ 已切换：强制模式，直接采用本轮最优
 
 ### 网络直播
 
@@ -30,7 +30,7 @@
 | 4 | `fanmingming/live` | channels=82 alive=0.25(8抽样) | 0.570 |
 | 5 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.446 |
 
-> ✅ 已切换：首次选定
+> ✅ 已切换：强制模式，直接采用本轮最优
 
 ### 本轮不可用
 
