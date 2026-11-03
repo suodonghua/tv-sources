@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-11-04",
-  "note": "thresholds.keep_spider_sites=true：保留 type=3（csp_/spider jar）站点，正在实测命中率",
+  "note": "spider_browse_only=true 时保留 type=3 站点供浏览，但 searchable=0 不进搜索",
   "weights": {
     "movie": {
       "fresh": 0.35,
@@ -20,7 +20,8 @@
     "movie_min_sites": 20,
     "live_min_channels": 80,
     "max_age_days": 400,
-    "keep_spider_sites": true
+    "keep_spider_sites": false,
+    "spider_browse_only": true
   },
   "blocklist": [
     "色情",
