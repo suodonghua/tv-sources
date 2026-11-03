@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "updated": "2026-11-04",
+  "note": "源更新中心 APK 启动时拉这份候选表；拉不到就退回 APK 内置表。加源只改这里，不用重编。",
+  "weights": {
+    "movie": {
+      "fresh": 0.35,
+      "community": 0.25,
+      "richness": 0.3,
+      "spider_ok": 0.1
+    },
+    "live": {
+      "fresh": 0.25,
+      "community": 0.2,
+      "richness": 0.2,
+      "alive": 0.35
+    }
+  },
+  "thresholds": {
+    "movie_min_sites": 20,
+    "live_min_channels": 80,
+    "max_age_days": 400
+  },
+  "blocklist": [
+    "色情",
+    "成人",
+    "福利",
+    "porn",
+    "麻豆",
+    "约炮",
+    "三级",
+    "情色",
+    "六合",
+    "博彩",
+    "赌"
+  ],
+  "candidates": [
+    {
+      "kind": "movie",
+      "repo": "qist/tvbox",
+      "paths": [
+        "0825.json",
+        "0826.json",
+        "js.json",
+        "0827.json"
+      ]
+    },
+    {
+      "kind": "movie",
+      "repo": "gaotianliuyun/gao",
+      "paths": [
+        "0825.json",
+        "0826.json",
+        "js.json"
+      ]
+    },
+    {
+      "kind": "movie",
+      "repo": "Lightconer/tvbox-ysc-config",
+      "paths": [
+        "output/tinghao.json",
+        "output/shiguang.json",
+        "output/feimao.json"
+      ]
+    },
+    {
+      "kind": "movie",
+      "repo": "mrgaoshuiquan/tvbox-config",
+      "paths": [
+        "tvbox.json",
+        "jhkx-full.json"
+      ]
+    },
+    {
+      "kind": "movie",
+      "repo": "FanchangWang/tvbox_config",
+      "paths": [
+        "dist/tvbox.json",
+        "dist/my.json"
+      ]
+    },
+    {
+      "kind": "movie",
+      "repo": "hkuc/tvbox-config",
+      "paths": [
+        "url.json"
+      ]
+    },
+    {
+      "kind": "live",
+      "repo": "CCSH/IPTV",
+      "paths": [
+        "live.m3u"
+      ]
+    },
+    {
+      "kind": "live",
+      "repo": "Guovin/iptv-api",
+      "paths": [
+        "output/result.m3u",
+        "output/ipv4/result.m3u",
+        "output/ipv6/result.m3u",
+        "output/result.txt"
+      ]
+    },
+    {
+      "kind": "live",
+      "repo": "vbskycn/iptv",
+      "paths": [
+        "tv/iptv4.m3u",
+        "tv/iptv6.m3u"
+      ]
+    },
+    {
+      "kind": "live",
+      "repo": "fanmingming/live",
+      "paths": [
+        "tv/m3u/index.m3u",
+        "tv/m3u/itv.m3u",
+        "tv/m3u/ipv6.m3u"
+      ]
+    },
+    {
+      "kind": "live",
+      "repo": "YanG-1989/m3u",
+      "paths": [
+        "Gather.m3u"
+      ]
+    },
+    {
+      "kind": "live",
+      "repo": "ngo5/IPTV",
+      "paths": [
+        "m3u/ipv4.m3u",
+        "m3u/ipv6Plus.m3u"
+      ]
+    },
+    {
+      "kind": "live",
+      "repo": "Supprise0901/TVBox_live",
+      "paths": [
+        "live.txt"
+      ]
+    }
+  ]
+}
