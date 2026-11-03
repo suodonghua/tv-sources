@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-11-04",
-  "note": "源更新中心 APK 启动时拉这份候选表；拉不到就退回 APK 内置表。加源只改这里，不用重编。",
+  "note": "thresholds.keep_spider_sites=true：保留 type=3（csp_/spider jar）站点，正在实测命中率",
   "weights": {
     "movie": {
       "fresh": 0.35,
@@ -19,7 +19,8 @@
   "thresholds": {
     "movie_min_sites": 20,
     "live_min_channels": 80,
-    "max_age_days": 400
+    "max_age_days": 400,
+    "keep_spider_sites": true
   },
   "blocklist": [
     "色情",
