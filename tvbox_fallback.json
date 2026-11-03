@@ -1,10 +1,10 @@
 {
- "spider": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297",
+ "spider": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297",
  "lives": [
   {
    "name": "初秋语•综合",
    "type": 0,
-   "url": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/list.txt",
+   "url": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/list.txt",
    "playerType": 2,
    "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
    "logo": "https://logo.wyfc.qzz.io/{name}.png"
@@ -28,7 +28,7 @@
   {
    "name": "PG•油管",
    "type": 0,
-   "url": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/yo21.txt",
+   "url": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/yo21.txt",
    "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
    "logo": "https://logo.wyfc.qzz.io/{name}.png"
   },
@@ -1031,7 +1031,7 @@
    "api": "csp_XBPQ",
    "playerType": 1,
    "timeout": 60,
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/小白.json"
   },
   {
@@ -1044,7 +1044,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "./XBPQ/bttt.json",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
   },
   {
    "key": "布谷tv",
@@ -1055,7 +1055,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/布谷4K.json"
   },
   {
@@ -1068,7 +1068,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "./XBPQ/好恐怖.json",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
   },
   {
    "key": "圣城1080",
@@ -1080,7 +1080,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "./XBPQ/圣城1080.json",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
   },
   {
    "key": "秋霞",
@@ -1092,7 +1092,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "./XBPQ/秋霞.json",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
   },
   {
    "key": "VidHub",
@@ -1104,7 +1104,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "./XBPQ/VidHub.json",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
   },
   {
    "key": "rarbt",
@@ -1116,14 +1116,14 @@
    "filterable": 1,
    "api": "csp_XBPQ",
    "ext": "./XBPQ/rarbt.json",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389"
   },
   {
    "key": "XBPQ_文才",
    "name": "文才",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/文才.json"
   },
   {
@@ -1131,7 +1131,7 @@
    "name": "白嫖影视",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/白嫖影视.json"
   },
   {
@@ -1139,13 +1139,13 @@
    "name": "黑狐影院",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/黑狐影院.json"
   },
   {
    "key": "XBPQ_电影先生",
    "name": "电影先生",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "type": 3,
    "api": "csp_XBPQ",
    "ext": "./XBPQ/电影先生.json"
@@ -1158,7 +1158,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/麻衣影院.json"
   },
   {
@@ -1172,7 +1172,7 @@
    },
    "quickSearch": 0,
    "api": "csp_XBPQ",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/相声.json"
   },
   {
@@ -1186,7 +1186,7 @@
    },
    "quickSearch": 0,
    "api": "csp_XBPQ",
-   "jar": "https://ghfast.top/https://raw.githubusercontent.com/yhc7scorpio/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/suodonghua/tv-sources/main/jar/XBPQ_upgraded.jar;md5;c10ebfca316c4ac51cb00547bfdd2389",
    "ext": "./XBPQ/评书.json"
   },
   {
@@ -1716,5 +1716,5 @@
   "static-mozai.4gtv.tv",
   "s3t3d2y8.afcdn.net"
  ],
- "_fallback_note": "由 yhc7scorpio/tv-sources@main 自动生成，全部依赖走 https://ghfast.top/；主用请填 tvbox.json"
+ "_fallback_note": "由 suodonghua/tv-sources@main 自动生成，全部依赖走 https://ghfast.top/；主用请填 tvbox.json"
 }
