@@ -14,13 +14,13 @@
     "movie": {
       "fresh": 0.35,
       "community": 0.25,
-      "richness": 0.30,
-      "spider_ok": 0.10
+      "richness": 0.3,
+      "spider_ok": 0.1
     },
     "live": {
       "fresh": 0.25,
-      "community": 0.20,
-      "richness": 0.20,
+      "community": 0.2,
+      "richness": 0.2,
       "alive": 0.35
     }
   },
@@ -33,93 +33,138 @@
     "live_alive_timeout": 4.0
   },
   "blocklist_keywords": [
-    "色情", "成人", "福利", "porn", "麻豆", "约炮", "三级", "情色",
-    "六合", "博彩", "赌"
+    "色情",
+    "成人",
+    "福利",
+    "porn",
+    "麻豆",
+    "约炮",
+    "三级",
+    "情色",
+    "六合",
+    "博彩",
+    "赌"
   ],
   "candidates": [
     {
       "kind": "movie",
       "repo": "qist/tvbox",
-      "paths": ["0825.json", "0826.json", "js.json", "0827.json"],
+      "paths": [
+        "0825.json",
+        "0826.json",
+        "js.json",
+        "0827.json"
+      ],
       "note": "12577 star / fork 4383，日更，gao 的上游"
     },
     {
       "kind": "movie",
       "repo": "gaotianliuyun/gao",
-      "paths": ["0825.json", "0826.json", "js.json"],
+      "paths": [
+        "0825.json",
+        "0826.json",
+        "js.json"
+      ],
       "note": "8116 star，2024-11 后停更（你当前在用）"
     },
     {
       "kind": "movie",
       "repo": "Lightconer/tvbox-ysc-config",
-      "paths": ["output/tinghao.json", "output/shiguang.json", "output/feimao.json"],
+      "paths": [
+        "output/tinghao.json",
+        "output/shiguang.json",
+        "output/feimao.json"
+      ],
       "note": "314 star，日更"
     },
     {
       "kind": "movie",
       "repo": "mrgaoshuiquan/tvbox-config",
-      "paths": ["tvbox.json", "jhkx-full.json"],
+      "paths": [
+        "tvbox.json",
+        "jhkx-full.json"
+      ],
       "note": "141 star"
     },
     {
       "kind": "movie",
       "repo": "FanchangWang/tvbox_config",
-      "paths": ["api.json", "tvbox.json"],
-      "note": "33 star，日更"
+      "paths": [
+        "dist/tvbox.json",
+        "dist/my.json"
+      ],
+      "note": "33 star，日更（2026-11 起产物挪到 dist/）"
     },
     {
       "kind": "movie",
       "repo": "hkuc/tvbox-config",
-      "paths": ["url.json"],
+      "paths": [
+        "url.json"
+      ],
       "note": "37 star，多仓列表"
     },
     {
       "kind": "live",
-      "repo": "fanmingming/live",
-      "paths": ["tv/m3u/ipv4.m3u", "tv/m3u/ipv6.m3u"],
-      "note": "28764 star，国内 IPTV 主力"
+      "repo": "CCSH/IPTV",
+      "paths": [
+        "live.m3u"
+      ],
+      "note": "每日自测合并，4000+ 频道"
     },
     {
       "kind": "live",
       "repo": "Guovin/iptv-api",
-      "paths": ["output/result.m3u", "output/ipv4/result.m3u", "output/ipv6/result.m3u", "output/result.txt"],
-      "note": "25942 star / fork 7674"
+      "paths": [
+        "output/result.m3u",
+        "output/ipv4/result.m3u",
+        "output/ipv6/result.m3u",
+        "output/result.txt"
+      ],
+      "note": "25942 star / fork 7674（产物在 gd 分支）"
     },
     {
       "kind": "live",
       "repo": "vbskycn/iptv",
-      "paths": ["tv/iptv4.m3u", "tv/iptv6.m3u"],
+      "paths": [
+        "tv/iptv4.m3u",
+        "tv/iptv6.m3u"
+      ],
       "note": "10075 star（你当前在用）"
     },
     {
       "kind": "live",
-      "repo": "HerbertHe/iptv-sources",
-      "paths": ["iptv.m3u", "output/result.m3u", "output/iptv.m3u"],
-      "note": "9061 star，日更"
+      "repo": "fanmingming/live",
+      "paths": [
+        "tv/m3u/index.m3u",
+        "tv/m3u/itv.m3u",
+        "tv/m3u/ipv6.m3u"
+      ],
+      "note": "28764 star；2026-11 起 ipv4.m3u 已改名 index.m3u"
+    },
+    {
+      "kind": "live",
+      "repo": "YanG-1989/m3u",
+      "paths": [
+        "Gather.m3u"
+      ],
+      "note": "聚合列表"
     },
     {
       "kind": "live",
       "repo": "ngo5/IPTV",
-      "paths": ["m3u/ipv4.m3u", "m3u/ipv6Plus.m3u"],
+      "paths": [
+        "m3u/ipv4.m3u",
+        "m3u/ipv6Plus.m3u"
+      ],
       "note": "6251 star"
     },
     {
       "kind": "live",
-      "repo": "dongyubin/IPTV",
-      "paths": ["tv.txt", "iptv.m3u", "live.txt"],
-      "note": "4621 star，日更"
-    },
-    {
-      "kind": "live",
       "repo": "Supprise0901/TVBox_live",
-      "paths": ["live.txt"],
+      "paths": [
+        "live.txt"
+      ],
       "note": "1048 star / fork 175，直播聚合，日更"
-    },
-    {
-      "kind": "live",
-      "repo": "imDazui/Tvlist-awesome-m3u-m3u8",
-      "paths": ["m3u/5000个直播源全部有效.m3u", "m3u/3100个全部有效.m3u8"],
-      "note": "30321 star，但 2025-11 后停更"
     }
   ]
 }
