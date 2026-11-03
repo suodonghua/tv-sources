@@ -1,0 +1,9 @@
+# 扫描中间产物（工作流跑完会把 out/ 内容铺到根目录再删掉，本地调试时留着）
+sourceopt/out/
+sourceopt/cache/
+sourceopt/__pycache__/
+__pycache__/
+*.pyc
+
+# 本地调试
+.tmp/
