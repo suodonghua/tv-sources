@@ -1,6 +1,6 @@
 # 源择优报告
 
-生成时间：2026-11-04T20:04:25+00:00
+生成时间：2026-11-05T20:00:47+00:00
 
 ## 当前生效
 
@@ -24,12 +24,12 @@
 
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
-| 1 | `vbskycn/iptv` | channels=422 alive=1.0(8抽样) | 0.970 |
-| 2 | `Supprise0901/TVBox_live` | channels=941 alive=1.0(8抽样) | 0.926 |
-| 3 | `CCSH/IPTV` | channels=4147 alive=0.875(8抽样) | 0.876 |
-| 4 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.805 |
+| 1 | `vbskycn/iptv` | channels=411 alive=1.0(8抽样) | 0.970 |
+| 2 | `Supprise0901/TVBox_live` | channels=686 alive=0.75(8抽样) | 0.838 |
+| 3 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.804 |
+| 4 | `CCSH/IPTV` | channels=4129 alive=0.625(8抽样) | 0.788 |
 | 5 | `fanmingming/live` | channels=94 alive=None(0抽样) | 0.663 |
-| 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.445 |
+| 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.444 |
 
 > ✅ 已切换：同一源，刷新内容
 
