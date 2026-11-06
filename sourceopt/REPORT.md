@@ -1,6 +1,6 @@
 # 源择优报告
 
-生成时间：2026-11-05T20:00:47+00:00
+生成时间：2026-11-06T19:58:39+00:00
 
 ## 当前生效
 
@@ -14,8 +14,8 @@
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
 | 1 | `qist/tvbox` | sites=135 spider_ok=1.00 form=single | 0.978 |
-| 2 | `Lightconer/tvbox-ysc-config` | sites=46 spider_ok=0.50 form=multi | 0.832 |
-| 3 | `mrgaoshuiquan/tvbox-config` | sites=52 spider_ok=1.00 form=single | 0.624 |
+| 2 | `Lightconer/tvbox-ysc-config` | sites=46 spider_ok=0.50 form=multi | 0.833 |
+| 3 | `mrgaoshuiquan/tvbox-config` | sites=52 spider_ok=1.00 form=single | 0.623 |
 | 4 | `gaotianliuyun/gao` | sites=135 spider_ok=1.00 form=single | 0.616 |
 
 > ✅ 已切换：同一源，刷新内容
@@ -24,14 +24,14 @@
 
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
-| 1 | `vbskycn/iptv` | channels=411 alive=1.0(8抽样) | 0.970 |
-| 2 | `Supprise0901/TVBox_live` | channels=686 alive=0.75(8抽样) | 0.838 |
-| 3 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.804 |
-| 4 | `CCSH/IPTV` | channels=4129 alive=0.625(8抽样) | 0.788 |
+| 1 | `Supprise0901/TVBox_live` | channels=773 alive=0.875(8抽样) | 0.882 |
+| 2 | `vbskycn/iptv` | channels=377 alive=0.75(8抽样) | 0.871 |
+| 3 | `CCSH/IPTV` | channels=3644 alive=0.75(8抽样) | 0.832 |
+| 4 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.803 |
 | 5 | `fanmingming/live` | channels=94 alive=None(0抽样) | 0.663 |
 | 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.444 |
 
-> ✅ 已切换：同一源，刷新内容
+> ⏸ 保持不动：保持现有（新 0.882 需超过 1.116 才换）
 
 ### 本轮不可用
 
