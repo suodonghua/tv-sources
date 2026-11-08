@@ -1,6 +1,6 @@
 # 源择优报告
 
-生成时间：2026-11-07T19:49:21+00:00
+生成时间：2026-11-08T19:51:58+00:00
 
 ## 当前生效
 
@@ -24,10 +24,10 @@
 
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
-| 1 | `vbskycn/iptv` | channels=418 alive=1.0(8抽样) | 0.970 |
-| 2 | `Supprise0901/TVBox_live` | channels=732 alive=0.875(8抽样) | 0.882 |
-| 3 | `CCSH/IPTV` | channels=3821 alive=0.875(8抽样) | 0.876 |
-| 4 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.803 |
+| 1 | `vbskycn/iptv` | channels=431 alive=1.0(8抽样) | 0.970 |
+| 2 | `Supprise0901/TVBox_live` | channels=644 alive=1.0(8抽样) | 0.926 |
+| 3 | `CCSH/IPTV` | channels=6950 alive=0.75(8抽样) | 0.832 |
+| 4 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.802 |
 | 5 | `fanmingming/live` | channels=94 alive=None(0抽样) | 0.663 |
 | 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.443 |
 
@@ -35,6 +35,6 @@
 
 ### 本轮不可用
 
-- `FanchangWang/tvbox_config` — dist/tvbox.json@main: 多仓 9 个子仓全部拉不到内容; dist/my.json@main: 多仓 12 个子仓全部拉不到内容
+- `FanchangWang/tvbox_config` — dist/tvbox.json@main: 多仓 8 个子仓全部拉不到内容; dist/my.json@main: 多仓 11 个子仓全部拉不到内容
 - `hkuc/tvbox-config` — url.json@main: 不是对象
 - `Guovin/iptv-api` — output/result.m3u@master: 拉取失败; output/ipv4/result.m3u@master: 拉取失败; output/ipv6/result.m3u@master: 拉取失败
