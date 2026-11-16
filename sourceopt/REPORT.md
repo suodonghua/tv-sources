@@ -1,11 +1,11 @@
 # 源择优报告
 
-生成时间：2026-11-15T19:51:06+00:00
+生成时间：2026-11-16T20:04:41+00:00
 
 ## 当前生效
 
 - **电影聚合**：`qist/tvbox` / `0825.json` — 分数 0.978
-- **网络直播**：`vbskycn/iptv` / `tv/iptv4.m3u` — 分数 0.970
+- **网络直播**：`vbskycn/iptv` / `tv/iptv4.m3u` — 分数 0.943
 
 ## 本次排名
 
@@ -14,9 +14,9 @@
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
 | 1 | `qist/tvbox` | sites=135 spider_ok=1.00 form=single | 0.978 |
-| 2 | `Lightconer/tvbox-ysc-config` | sites=46 spider_ok=0.50 form=multi | 0.838 |
-| 3 | `mrgaoshuiquan/tvbox-config` | sites=52 spider_ok=1.00 form=single | 0.616 |
-| 4 | `gaotianliuyun/gao` | sites=135 spider_ok=1.00 form=single | 0.616 |
+| 2 | `Lightconer/tvbox-ysc-config` | sites=46 spider_ok=0.50 form=multi | 0.839 |
+| 3 | `gaotianliuyun/gao` | sites=135 spider_ok=1.00 form=single | 0.616 |
+| 4 | `mrgaoshuiquan/tvbox-config` | sites=52 spider_ok=1.00 form=single | 0.616 |
 
 > ✅ 已切换：同一源，刷新内容
 
@@ -24,10 +24,10 @@
 
 | # | 仓库 | 详情 | 分数 |
 |---|---|---|---|
-| 1 | `vbskycn/iptv` | channels=398 alive=1.0(8抽样) | 0.970 |
-| 2 | `Supprise0901/TVBox_live` | channels=979 alive=1.0(8抽样) | 0.926 |
-| 3 | `CCSH/IPTV` | channels=4623 alive=0.875(8抽样) | 0.876 |
-| 4 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.798 |
+| 1 | `vbskycn/iptv` | channels=345 alive=1.0(8抽样) | 0.943 |
+| 2 | `Supprise0901/TVBox_live` | channels=921 alive=1.0(8抽样) | 0.926 |
+| 3 | `CCSH/IPTV` | channels=4670 alive=0.75(8抽样) | 0.833 |
+| 4 | `YanG-1989/m3u` | channels=123 alive=1.0(8抽样) | 0.797 |
 | 5 | `fanmingming/live` | channels=94 alive=None(0抽样) | 0.663 |
 | 6 | `ngo5/IPTV` | channels=158 alive=0.0(8抽样) | 0.438 |
 
